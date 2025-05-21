@@ -30,4 +30,4 @@ This project is perfect for beginners to practice DOM manipulation, transitions,
 
 ## 📸 Preview:
 
-![Project Screenshot](image/sunset.png)
+![Project Screenshot](image/msedge_2mCXsiV8bC.jpg.png)
